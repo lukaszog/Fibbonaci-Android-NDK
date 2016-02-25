@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FibNative</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fibJR">Java Rek</string>
+    <string name="fibJI">Java Inter</string>
+    <string name="fibNR">C Rek</string>
+    <string name="fibNI">C Inter</string>
+
+</resources>
